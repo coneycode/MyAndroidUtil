@@ -5,7 +5,7 @@ it will show you the tags'method name,class name even the lines!
 
 just see the picture:
 
-![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
+![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413108799&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:oDRo96AUCLMngXYYtEZNoYnsI20)
 
 ###Usage
 1.enable/disable log  
@@ -14,13 +14,18 @@ it is allows you to run some code only in debug mode. Builds now generate a clas
 
 2.set the Tag for the log  
 ```java
-MyLogger.setMyTags("myTags");  
+MyLogger.setMyTags("myTag");  
 ```
-if you do not set the tags, default will be the class name.
+if you do not set the tag, default tag will be the class name.
 
 just as next picture:
 
-![lib](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
+![lib](http://coney.qiniudn.com/android_log_tags.png?attname=&e=1413108873&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:es9VNlF7KBHeMK3B1wQc0w0P6Tc)
+
+you can just use next line  to add your tag to one log before you set the tag.
+```java
+MyLogger.i("mytag", "test");
+```
 
 3.log simple  
 ```java
