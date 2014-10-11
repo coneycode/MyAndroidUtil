@@ -5,7 +5,7 @@ it will show you the tags'method name,class name even the lines!
 
 just see the picture:
 
-![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
+![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413108799&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:oDRo96AUCLMngXYYtEZNoYnsI20)
 
 ###Usage
 1.enable/disable log  
