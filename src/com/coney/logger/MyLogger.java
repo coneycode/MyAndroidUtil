@@ -5,7 +5,8 @@
  * @author coney Geng
  * @date 2014年9月22日 下午5:15:36 
  * @version V1.0   
- */package com.coney.logger;
+ */
+package com.coney.logger;
 
 import com.coney.coneyutil.BuildConfig;
 
@@ -59,12 +60,29 @@ public class MyLogger {
 		Log.e(className, createLog(message));
 	}
 
+	public static void e(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		// Throwable instance must be created before any methods
+		getMethodNames(new Throwable().getStackTrace());
+		Log.e(tag, createLog(message));
+	}
+
 	public static void i(String message) {
 		if (!isDebuggable())
 			return;
 
 		getMethodNames(new Throwable().getStackTrace());
 		Log.i(className, createLog(message));
+	}
+
+	public static void i(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		getMethodNames(new Throwable().getStackTrace());
+		Log.i(tag, createLog(message));
 	}
 
 	public static void d(String message) {
@@ -75,12 +93,28 @@ public class MyLogger {
 		Log.d(className, createLog(message));
 	}
 
+	public static void d(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		getMethodNames(new Throwable().getStackTrace());
+		Log.d(tag, createLog(message));
+	}
+
 	public static void v(String message) {
 		if (!isDebuggable())
 			return;
 
 		getMethodNames(new Throwable().getStackTrace());
 		Log.v(className, createLog(message));
+	}
+
+	public static void v(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		getMethodNames(new Throwable().getStackTrace());
+		Log.v(tag, createLog(message));
 	}
 
 	public static void w(String message) {
@@ -91,6 +125,14 @@ public class MyLogger {
 		Log.w(className, createLog(message));
 	}
 
+	public static void w(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		getMethodNames(new Throwable().getStackTrace());
+		Log.w(tag, createLog(message));
+	}
+
 	public static void wtf(String message) {
 		if (!isDebuggable())
 			return;
@@ -98,4 +140,13 @@ public class MyLogger {
 		getMethodNames(new Throwable().getStackTrace());
 		Log.wtf(className, createLog(message));
 	}
+
+	public static void wtf(String message, String tag) {
+		if (!isDebuggable())
+			return;
+
+		getMethodNames(new Throwable().getStackTrace());
+		Log.wtf(tag, createLog(message));
+	}
+
 }
