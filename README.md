@@ -1,5 +1,7 @@
 #MyAndroidUtil
-it will show you the tags'method name,class name even the lines!just see the picture:
+it will show you the tags'method name,class name even the lines!
+
+just see the picture:
 ![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
 ##Introduction
 your can import the lib into your project.
