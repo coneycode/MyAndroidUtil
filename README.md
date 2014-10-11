@@ -17,6 +17,7 @@ MyLogger.setMyTags("myTags");
 if you do not set the tags, default will be the class name.
 
 just as next picture:
+
 ![lib](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
 
 3.log simple  
@@ -40,9 +41,11 @@ MyLogger.e("TAG","test");
 ##Introduction
 your can import the lib into your project.
 just as next picture:
+
 ![libiry](http://coney.qiniudn.com/android_log_libraries.png?attname=&e=1413106449&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qNn57rQP3lI5tsbbkBBLC_UUepY)
 or get the codesource, into your project.
 just as next picture:
+
 ![lib](http://coney.qiniudn.com/android_log_lib.png?attname=&e=1413106449&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:yDsMl1c7HTQDfsTYiTpnKBwNu5U)
 
 ##License
