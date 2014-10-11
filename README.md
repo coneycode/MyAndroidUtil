@@ -20,7 +20,7 @@ if you do not set the tags, default will be the class name.
 
 just as next picture:
 
-![lib](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
+![lib](http://coney.qiniudn.com/android_log_tags.png?attname=&e=1413108873&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:es9VNlF7KBHeMK3B1wQc0w0P6Tc)
 
 3.log simple  
 ```java
