@@ -1,11 +1,13 @@
 #MyAndroidUtil
+
+##MyLogger
 it will show you the tags'method name,class name even the lines!
 
 just see the picture:
 
 ![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
 
-##Usage
+###Usage
 1.enable/disable log  
 
 it is allows you to run some code only in debug mode. Builds now generate a class called BuildConfig containing a DEBUGconstant that is automatically set according to your build type. You can check the (BuildConfig.DEBUG) constant in your code to run debug-only functions.
