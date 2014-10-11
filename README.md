@@ -1,5 +1,6 @@
 #MyAndroidUtil
-
+it will show you the tags'method name,class name even the lines!just see the picture:
+![demo](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
 ##Introduction
 your can import the lib into your project.
 just as next picture:
@@ -18,6 +19,7 @@ it is allows you to run some code only in debug mode. Builds now generate a clas
 MyLogger.setMyTags("myTags");  
 ```
 if you do not set the tags, default will be the class name.
+
 just as next picture:
 ![lib](http://coney.qiniudn.com/android_log_tag.png?attname=&e=1413106188&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qGXoq_1YeFwtLx5r2o4eA-GEAvY)
 
