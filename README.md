@@ -50,11 +50,11 @@ your can import the lib into your project.
 download the jar from https://github.com/coneycode/MyAndroidUtil/blob/master/bin/coneyutil.jar?raw=true
 and just as next picture:
 
-![libiry](http://coney.qiniudn.com/android_log_libraries.png?attname=&e=1413106449&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:qNn57rQP3lI5tsbbkBBLC_UUepY)
+![libiry](http://coney.qiniudn.com/android_log_libraries.png?imageView2/2/w/203/h/203&e=1413257698&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:c2wcQzP5APwDb3KiOAkTBTGZKYk)
 or get the codesource, into your project.
 just as next picture:
 
-![lib](http://coney.qiniudn.com/android_log_lib.png?attname=&e=1413106449&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:yDsMl1c7HTQDfsTYiTpnKBwNu5U)
+![lib](http://coney.qiniudn.com/android_log_lib.png?imageView2/2/w/203/h/203&e=1413257701&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:NA-_RzoKs2uuzN4xUav1BQH7xhA)
 
 ##License
 ```
