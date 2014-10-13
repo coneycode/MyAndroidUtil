@@ -51,6 +51,7 @@ download the jar from https://github.com/coneycode/MyAndroidUtil/blob/master/bin
 and just as next picture:
 
 ![libiry](http://coney.qiniudn.com/android_log_libraries.png?attname=&e=1413257886&token=gJq7XMKe61C7zF73uUsV1e9QYqD3-fJSyQAAZZZr:h3bsKK3SrU7e1HjsTjkeSZkKfYs)
+
 or get the codesource, into your project.
 just as next picture:
 
