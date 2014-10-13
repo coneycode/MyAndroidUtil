@@ -11,7 +11,6 @@
 # Generated files
 bin/
 !bin/coneyutil.jar
-gen/
 
 # Gradle files
 .gradle/
