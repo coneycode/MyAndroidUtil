@@ -9,7 +9,6 @@
 *.class
 
 # Generated files
-bin/
 !bin/coneyutil.jar
 
 # Gradle files
