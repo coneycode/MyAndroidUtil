@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2013 Software Engineering School of Harbin Institute of Technology 
+ * Copyright (C) 2014 coney geng <http://gengbiao.me> 
  * @Package com.coney.util
  * @Title: DateTools.java 
  * Author: coney Geng
