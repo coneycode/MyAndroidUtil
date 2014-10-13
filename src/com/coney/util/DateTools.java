@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 coney geng <http://gengbiao.me> 
+ * Copyright (C) 2014 coney geng <coneylife@gmail.com> 
  * @Package com.coney.util
  * @Title: DateTools.java 
  * Author: coney Geng
