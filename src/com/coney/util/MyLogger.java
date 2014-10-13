@@ -1,6 +1,7 @@
 /**   
  * @Title: MyLogger.java 
  * @Package com.coney.logger
+ * Copyright (C) 2014 coney geng <coneylife@gmail.com> 
  * @Description: my logger for my development
  * @author coney Geng
  * @date 2014年9月22日 下午5:15:36 
